@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> University Website Design </title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com/">
+        <link rel="preconnect" href="https://fonts.googleapis.com/css2?Family=Poppins:wght@100;200;300;400;600;
+        700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <section class="sub-header">
+          <nav>
+            <a href=""> <img src="images/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html"></a>HOME</li>
+                    <li><a href="AboutUs.html"></a>ABOUT</li>
+                    <li><a href="course.html"></a>COURSE</li>
+                    <li><a href="blog.html"></a>BLOG</li>
+                    <li><a href="contact.html"></a>CONTACT US</li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+          <h1>About Us</h1>
+        </section>
+    </div>
+
+    <!------------------About Us Content------------>
+    <section class="about-us">
+      <div class="row">
+        <div class="about-col">
+        <h1>We are the world's Largest University</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui tenetur, 
+            maxime accusamus quaerat quod laudantium autem illo labore voluptatibus sapiente.
+            Sapiente suscipit provident debitis cum dicta, rem quod magni ex.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui tenetur, 
+            maxime accusamus quaerat quod laudantium autem illo labore voluptatibus sapiente.
+            Sapiente suscipit provident debitis cum dicta, rem quod magni ex!</p>
+            <a href="" class="hero-btn red-btn">EXPLORE NOW</a>
+        </div>
+        <div class="about-col">
+            <img src="images/about.jpg">
+        </div>
+      </div>
+    </section>
+        
+
+        <!----------------- Footer ------------------->
+         <section class="footer">
+            <h4>About Us</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto deleniti ut, error cumque veniam at<br>
+                accusantium corrupti molestias repellat quae accusamus</p>
+             <div class="icons">
+                <i class="fa fa-facebook-f"></i>
+                <i class="fa fa-twitter"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-linkedin"></i>
+             </div>
+         </section>
+        <!-----------javaScript for taggle menu--------------->
+        <script>
+            var navlinks =document.getElementById("navLinks");
+            function showMenu(){
+                navlinks.style.right = "0";
+            }
+            function hideMenu(){
+                navlinks.style.right = "-200px";
+            }
+        </script>
+</body>
+</html>

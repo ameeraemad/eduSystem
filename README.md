@@ -1,0 +1,7 @@
+# eduSystem![Capture](https://user-images.githubusercontent.com/61087691/209428539-0fd9db46-d4b2-4cb7-bd15-f0e4050ed054.PNG)
+![Capture1](https://user-images.githubusercontent.com/61087691/209428549-7027cff7-67d1-4e3e-8654-9f711703e06d.PNG)
+![Capture2](https://user-images.githubusercontent.com/61087691/209428551-d4d3a6f2-5532-495b-8b68-c41132d86018.PNG)
+![Capture3](https://user-images.githubusercontent.com/61087691/209428552-82ee4c8b-001f-4368-97c8-b0d1b667cdda.PNG)
+![Capture4](https://user-images.githubusercontent.com/61087691/209428554-57459eec-ca1d-4f7c-ba34-1f7d67637388.PNG)
+![Capture5](https://user-images.githubusercontent.com/61087691/209428555-4e961509-dd26-4193-af6f-323e2d052752.PNG)
+![Capture6](https://user-images.githubusercontent.com/61087691/209428557-037d12a9-21ad-4f45-95af-b51801dd6f86.PNG)
